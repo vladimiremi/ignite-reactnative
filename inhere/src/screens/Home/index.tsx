@@ -40,7 +40,6 @@ export function Home() {
         style: "cancel",
       },
     ]);
-    console.log(`Remover participante ${name}`);
   }
   return (
     <View style={styles.container}>
